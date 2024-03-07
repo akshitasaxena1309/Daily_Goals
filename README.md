@@ -1,6 +1,7 @@
 # Daily Goals React App
 
 A simple React application to track your daily goals. Users can input their goals by providing a title and description, displayed in a list format. Goals can be added and removed.
+visit here:- https://akshitasaxena1309.github.io/Daily_Goals/
 
 ## Features
 
